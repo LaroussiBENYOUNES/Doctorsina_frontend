@@ -1,0 +1,4 @@
+[18-Sep-2014 01:42:43 UTC] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Access denied for user 'root'@'localhost' (using password: NO) in /home/etoubibc/public_html/silarou/etoubib/lp/classe.php on line 31
+[18-Sep-2014 01:42:43 UTC] PHP Fatal error:  Class 'MySQLExeption' not found in /home/etoubibc/public_html/silarou/etoubib/lp/classe.php on line 33
+[18-Sep-2014 01:42:51 UTC] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Access denied for user 'root'@'localhost' (using password: NO) in /home/etoubibc/public_html/silarou/etoubib/lp/classe.php on line 31
+[18-Sep-2014 01:42:51 UTC] PHP Fatal error:  Class 'MySQLExeption' not found in /home/etoubibc/public_html/silarou/etoubib/lp/classe.php on line 33

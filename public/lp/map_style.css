@@ -1,0 +1,30 @@
+#content{
+display:block;
+position:relative;
+margin:0 auto;
+width:800px;
+height:600px;
+
+border: 5px solid #00b4ef;
+-moz-border-radius: 10px;
+    -webkit-border-radius: 10px;
+    border-radius: 10px;
+}
+#content a{ 
+    display:none; 
+}
+
+.button_map{
+border: none;
+color: #fff;
+text-transform: uppercase;
+background: #00b4ef;
+height: 29px;
+position: relative;
+bottom: 1px;
+-webkit-border-radius: 3px 0px 0px 3px !important;
+border-radius: 5px  5px !important;
+}
+.button_map:hover{
+cursor:pointer;
+}

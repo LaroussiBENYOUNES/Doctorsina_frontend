@@ -1,0 +1,19 @@
+Administrator name:
+ > superadmin
+
+ Administrator email:
+ > admin@etoubib.com
+
+ Administrator password:
+ > Micronisia052776
+
+
+
+PHP NATIF
+secrétaire
+login: user
+PW:    sec
+
+docteur
+login:  user
+PW:     doc
